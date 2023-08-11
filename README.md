@@ -1,6 +1,7 @@
 
+
 # Catálogo de Automóveis_Derick_Castro
-![27982](https://github.com/derick1castro/teste-tecnico-react/assets/104864411/84992388-35c4-42ad-a616-cc6a71be8ab0)
+![27982](https://github.com/derick1castro/catalogo-teste-react/assets/104864411/64cb8d96-d119-4e21-9046-241d40db0368)
 
 > Projeto denominado "Catálogo de Automóveis", concebido como parte de um desafio técnico. Este projeto abrange a criação de um site sofisticado, onde cards elegantes exibem veículos acompanhados por informações essenciais, como modelos, marcas, anos e valores. Além disso, o projeto incorpora uma funcionalidade de favoritar veículos, uma barra de navegação intuitiva com duas rotas distintas: "Lista de Carros" e "Favoritos", e um sistema de autenticação através de uma tela de login.
 
